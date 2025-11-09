@@ -3,6 +3,7 @@
 }
 
 body{
+    width: 100%;
     display: flex;
     justify-self: center;
     height: 100vh;
@@ -52,7 +53,7 @@ label{
     margin-top: 20px;
 }
 
-@media (max-width: 768px){
+@media (max-width: 748px){
     .card-1{
         width:90%;
     }
